@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AddTwoNumbers {
+public class oneFactorial {
     public static void main(String[] args) {
       
       Scanner sc = new Scanner(System.in);
