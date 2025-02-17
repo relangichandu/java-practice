@@ -7,7 +7,6 @@ public class oneFactorial {
       int num = sc.nextInt();
       System.out.println("Enter the number :");
       
-      
       int fact = 1;
       
       for(int i=1; i<=num; i++){
@@ -16,7 +15,5 @@ public class oneFactorial {
       }
        System.out.println("Factorial : " + fact);
       sc.close();   
-      
-      
     }
 }
